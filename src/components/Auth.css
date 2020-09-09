@@ -1,0 +1,13 @@
+.auth{
+    display: grid;
+    place-items: center;
+    padding: 50px;
+}
+
+.auth__button{
+    margin-top: 50px;
+}
+
+.button_style{
+    background-color: #30cf47 !important;
+}

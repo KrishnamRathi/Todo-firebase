@@ -1,0 +1,11 @@
+.add__todo{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    margin-top: 50px;
+    padding: 30px;
+}
+
+.input{
+    width: 300px;
+}

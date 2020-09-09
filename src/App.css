@@ -1,0 +1,19 @@
+
+.app{
+  background: url('./BG.jpg');
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+  object-fit: cover;
+  background-position-y: center;
+  width: 100vw;
+  height: 100vh;
+
+
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
